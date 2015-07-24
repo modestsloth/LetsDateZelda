@@ -59,7 +59,7 @@ struct Room
 
 
 void op(string s)
-{	//all output is forwarded here
+{	//all output is forwarded here;
 	for (unsigned int i = 0; i < s.length(); i++)
 	{
 		cout << s[i];

@@ -147,7 +147,7 @@ int main()
 			dot();
 
 			int size = 5;
-			//set up the map!
+			//set up the map
 			Room *entrance;
 			entrance = new Room;
 

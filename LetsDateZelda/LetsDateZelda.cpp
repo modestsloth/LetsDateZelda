@@ -81,7 +81,7 @@ void dot()
 
 int main()
 {
-	//just jump into it;
+	//just jump into it
 	string input;
 	op("ZELDA: Hello, My name is Zelda, and I need your help!");
 	op("ZELDA: Can you show me the way to the Sacred Grove?");
